@@ -1,0 +1,15 @@
+{
+    "title": "EI10 ",
+    "baseURL": "https:\/\/www.ei10.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758338",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "ei10.com"
+    }
+}
